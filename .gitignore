@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Local data / results
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.json.bak
+*.backup*
+*_backup*.py
+
+# Secrets
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
