@@ -1,5 +1,7 @@
 # Lead Finder — Multi-Source Business Lead Scraper
 
+> 🚀 **Now available as an AI-agent skill:** [Lead Finder on Agensi](https://www.agensi.io/skills/lead-finder-enriched-local-business-leads). Works with Claude Code, Cursor, Codex and more.
+
 A desktop app (Python + PySide6) that finds local business leads from several sources at once, merges duplicates, enriches each lead from the business's own website, and exports clean results to CSV.
 
 > **Disclaimer:** This project is for educational and portfolio purposes. Scraping some websites may go against their Terms of Service. Use it responsibly, respect each site's rules and `robots.txt`, and prefer official APIs for commercial use.
